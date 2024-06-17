@@ -3,7 +3,9 @@
 
 Este projeto tem como objetivo criar um programa capaz de cadastrar, excluir e listar objetos do tipo `Caneta`. As tecnologias utilizadas são JSF, Primefaces e Hibernate.
 ## ALUNOS:
+
 Davi Felipe Cavalcante Mendes 1-2019215976
+
 Mateus Gomes Moreira  1-2018110612
 
 ## Sumário
